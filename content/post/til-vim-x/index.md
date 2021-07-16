@@ -14,10 +14,10 @@ I also like how `:x` sort of symbolizes the close button ❌ of many window mana
 
 For more documentation open vim and type `:h :x`.
 
-# Wait, now that you say it ...
+# Wait, now that you mention it ...
 
-Well, turns out the documentation mentions there is an even easier way: Just press `ZZ` 😴
+Well, turns out the documentation mentions an even easier way: Just press `ZZ` (without the colon) 😴
 
-Same goes for closing vim completely: `ZQ`
+Now if only I could combine this to perform `:wqa` ...
 
 Happy vim-ing! 👋
