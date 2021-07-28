@@ -7,3 +7,8 @@ This repo contains the Hugo project from which [jscheytt.github.io](jscheytt.git
 This site uses the [Stack theme](https://github.com/CaiJimmy/hugo-theme-stack/).
 
 Deployments happen to this repo: [jscheytt/jscheytt.github.io](https://github.com/jscheytt/jscheytt.github.io)
+
+## Usage
+
+* Build and serve locally:  
+`hugo server`
