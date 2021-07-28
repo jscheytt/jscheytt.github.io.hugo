@@ -1,5 +1,5 @@
 ---
-title: TIL Docker does not really help you a lot trying to get permissions right
+title: Docker does not really help you a lot trying to get permissions right
 date: 2021-07-23T14:42:07+02:00
 categories:
     - today-i-learned

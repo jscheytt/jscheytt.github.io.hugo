@@ -1,5 +1,5 @@
 ---
-title: TIL you can :wq in vim with :x
+title: You can :wq in vim with :x
 date: 2021-07-16
 categories:
     - today-i-learned
