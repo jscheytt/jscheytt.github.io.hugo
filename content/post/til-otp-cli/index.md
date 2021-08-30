@@ -1,7 +1,6 @@
 ---
 title: You can create TOTP tokens via CLI without a smartphone
 date: 2021-08-27T08:20:41+02:00
-draft: true
 categories:
     - today-i-learned
 tags:
