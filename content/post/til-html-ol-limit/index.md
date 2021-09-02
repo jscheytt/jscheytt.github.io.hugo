@@ -1,5 +1,5 @@
 ---
-title: HTML limits you to a 31-bit integer in ordered lists
+title: HTML limits you to a signed 32-bit int in ordered lists
 date: 2021-09-02T08:55:22+02:00
 categories:
     - today-i-learned
@@ -12,7 +12,7 @@ I thought "Is there an upper bound?".
 
 Turns out: Yes, there is.
 It's 2147483647 (i.e. 2<sup>31</sup>-1).
-No idea why it's not 2<sup>32</sup>-1, though ...
+Looks like a signed 32-bit integer to me.
 
 ```html
 <ol start=2147483645>
