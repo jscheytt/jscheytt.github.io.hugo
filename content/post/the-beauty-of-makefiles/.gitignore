@@ -1,0 +1,9 @@
+# MacOS Files
+.DS_Store
+
+# Ignore secret data ...
+secrets/**/*.json
+# ... but keep the samples
+!secrets/*.sample.json
+# ... and also the environment-specific samples
+!secrets/*.sample.*.json
