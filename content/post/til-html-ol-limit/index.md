@@ -11,7 +11,7 @@ HTML allows you to specify a starting number from which an ordered list (`<ol>`)
 I thought "Is there an upper bound?".
 
 Turns out: Yes, there is.
-It's 2147483647 (i.e. 2<sup>31</sup>-1).
+It's 2147483647 (i.e. {{< unsafe >}}2<sup>31</sup>-1{{< /unsafe >}}).
 Looks like a signed 32-bit integer to me.
 
 ```html
@@ -19,19 +19,21 @@ Looks like a signed 32-bit integer to me.
     <li>I am still in order</li>
     <li>As am I</li>
     <li>Me too</li>
-    <li>Limit reached</li>
-    <li>Limit reached</li>
-    <li>Limit reached</li>
+    <li>💥 Limit reached</li>
+    <li>💥 Limit reached</li>
+    <li>💥 Limit reached</li>
 </ol>
 ```
 
 The above snippet will render as the following:
 
-<ol start=2147483645>
+{{< unsafe >}}
+<ol start=2147483645 style="margin-left: 10rem;">
     <li>I am still in order</li>
     <li>As am I</li>
     <li>Me too</li>
-    <li>Limit reached</li>
-    <li>Limit reached</li>
-    <li>Limit reached</li>
+    <li>💥 Limit reached</li>
+    <li>💥 Limit reached</li>
+    <li>💥 Limit reached</li>
 </ol>
+{{< /unsafe >}}
