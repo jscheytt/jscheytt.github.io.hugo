@@ -12,6 +12,7 @@ Usage: make [make-options] <target> [options]
 Common Targets:
     build        Run hugo build process and start the local server.
     help         Show this help info.
+    post         Create a new post. Expects parameter slug.
 endef
 export HELPTEXT
 
@@ -22,3 +23,6 @@ help:
 .PHONY: build
 build:
 	hugo server
+
+post:
+	@if [ ! -z "$(slug)" ]; then hugo new post/$(slug)/index.md; fi
