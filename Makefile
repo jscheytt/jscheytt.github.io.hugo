@@ -10,9 +10,11 @@ define HELPTEXT
 Usage: make [make-options] <target> [options]
 
 Common Targets:
-    build        Run hugo build process and start the local server.
-    help         Show this help info.
-    post         Create a new post. Expects parameter slug.
+    build               Run hugo build process and start the local server.
+    help                Show this help info.
+    post                Create a new post. Expects parameter slug.
+    submodules          Initialize the Git submodules.
+    submodules.update   Pull the latest changes in the Git submodules & commit.
 endef
 export HELPTEXT
 
@@ -24,5 +26,16 @@ help:
 build:
 	hugo server
 
+.PHONY: post
 post:
 	@if [ ! -z "$(slug)" ]; then hugo new post/$(slug)/index.md; fi
+
+.PHONY: submodules
+submodules:
+	@git submodule sync
+	@git submodule update --init --recursive
+.PHONY: submodules.update
+submodules.update:
+	@git submodule update --remote
+	@git add themes
+	@git commit -m "chore(make): update submodule"
