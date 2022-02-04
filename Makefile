@@ -30,8 +30,11 @@ help:
 install: submodules
 
 .PHONY: build
+localhost_url = http://localhost:1313/
 build: install
-	hugo server
+	@echo "Opening $(localhost_url) in your browser ..."
+	@python3 -m webbrowser $(localhost_url) > /dev/null
+	@hugo server
 
 .PHONY: post
 post:
