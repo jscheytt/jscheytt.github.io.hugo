@@ -9,7 +9,7 @@ tags:
 
 ```sh
 kubectl api-resources --verbs=list --namespaced -o name \
-  | xargs -n 1 kubectl get --show-kind --ignore-not-found "$NAMESPACE"
+  | xargs -n 1 kubectl get --show-kind --ignore-not-found -n "$NAMESPACE"
 ```
 
 Props to [RedHat](https://cloud.redhat.com/blog/the-hidden-dangers-of-terminating-namespaces).
