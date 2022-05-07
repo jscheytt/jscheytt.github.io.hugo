@@ -37,8 +37,8 @@ params:
     # emoji: 🍥
     # subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     avatar:
-      local: true
-      src: img/avatar.jpg
+      local: false
+      src: https://avatars.githubusercontent.com/u/25305098
 
   article:
     math: false
