@@ -1,6 +1,9 @@
 ---
 title: The Git Commands You Wish You Always Had
 date: 2022-02-28T13:15:29+01:00
+tags:
+    - git
+    - shell
 ---
 
 Recently I wanted to do a bulk cleanup on some GitHub repositories I am responsible for, deleting old branches that have already been merged into the default branches.
