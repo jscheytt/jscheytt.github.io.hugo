@@ -9,10 +9,10 @@ tags:
 Most of my Makefiles nowadays start with the following stuff at the top of `Makefile`:
 
 ```make
-# Remove default suffixes as we don't use them
+# Remove default suffixes as we don't use them.
 .SUFFIXES:
 
-# Set the Shell to Bash always to avoid surprises
+# Set the Shell to Bash always to avoid surprises.
 SHELL := /bin/bash
 
 # Auto-generate help texts from end-of-line comments.
@@ -29,7 +29,7 @@ help: ## Show this help info.
 			awk 'BEGIN {FS = ":.*?## "}; {printf "  %-27s %s\n", $$1, $$2}'; \
 	done
 
-# Split out Make modules into `helpers/`
+# Split out Make modules into `helpers/`.
 -include helpers/*.mk helpers/**/*.mk
 ```
 
