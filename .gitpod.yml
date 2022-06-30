@@ -4,3 +4,6 @@
 
 tasks:
   - command: make build
+ports:
+  - port: 1313
+    onOpen: open-preview
