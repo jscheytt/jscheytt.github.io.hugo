@@ -28,7 +28,7 @@ help:
 
 .PHONY: install
 install: submodules
-	brew install hugo
+	@command -v hugo > /dev/null || brew install hugo
 
 .PHONY: build
 localhost_url = http://localhost:1313/
