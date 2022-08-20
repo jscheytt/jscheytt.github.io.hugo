@@ -9,11 +9,13 @@ menu:
         pre: user
 ---
 
-Hey,
+Hey there,
 
-My name is Josia Scheytt ([josˈiːa ʃaɪ̯t]), 28 years old, living in Germany.
+My name is Josia Scheytt ([josˈiːa ʃaɪ̯t]).
+I live in the South of Germany near Stuttgart.
 
-I am interested in all things DevOps and Cloud Automation.
+Technically, I am interested in all things DevOps and Cloud Automation.
+My life as a whole is about following The One and Only, Jesus.
 
 This blog serves mostly as a small utility to keep track of things I have learned, but also as a way of sharing knowledge.
 For me this is a vital part of living DevOps.
@@ -22,5 +24,3 @@ You can find me on:
 
 * [LinkedIn](https://www.linkedin.com/in/josiascheytt/)
 * [GitHub](https://github.com/jscheytt)
-
-<!-- I currently work for mimacom -->
