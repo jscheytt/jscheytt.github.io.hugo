@@ -15,7 +15,7 @@ These are Git commands you can define yourself, either via CLI or in the Gitconf
 
 With this article, I want to introduce what I learned about Git aliases – and in the process, you get all the aliases I defined for my cleanup 😉
 
-# Defining Shortcuts
+## Defining Shortcuts
 
 Many articles about Git aliases explain only the **shortcut side**.
 They show e.g. how you can abbreviate `git checkout` to `git co` by running `git config --global alias.co checkout`.
@@ -29,7 +29,7 @@ Alternatively to the CLI command, you can add this section to your `~/.gitconfig
 Nowadays, with the [Git plugin of oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git), I don't feel there is a great need for such shortcuts.
 Let's instead talk about **actual custom commands**:
 
-# With Parameters
+## With Parameters
 
 If you use an *exclamation mark* before your command, you can run any Shell command you want, even with parameters.
 The following example will let you do e.g. `git cat 2eea778 package.json` to get the file contents of a file at a certain revision:
@@ -41,7 +41,7 @@ The following example will let you do e.g. `git cat 2eea778 package.json` to get
   cat = !git show "$1:$2"
 ```
 
-# Pass It On
+## Pass It On
 
 Piping output into other commands is available out of the box.
 Executing multiple commands is just a `&&` away.
@@ -65,7 +65,7 @@ You can also use *subshells*:
   switch-default = !git switch $(git default-branch)
 ```
 
-# Escaping Can Be Tricky
+## Escaping Can Be Tricky
 
 If you want to have a *literal backslash* in the resulting Shell command, you have to escape it.
 Pay attention to the `grep` patterns in the following aliases:
@@ -96,7 +96,7 @@ I think these are the dangers of every templating language:
 You have to account for special characters - but if these special characters happen to be special in someone else's language, things can become unexpectedly complicated.
 (Think about Makefiles and `$(variables)` vs. `$$variables` in rules.)
 
-# Parameters Pt. 2: Default Values
+## Parameters Pt. 2: Default Values
 
 As with any other Shell function, you can not only have positional parameters but you can also give them default values.
 The following alias has a *delete flag* that defaults to the safe behavior, but you can overwrite it with `git delete-local-branches-without-remote -D`:
@@ -124,7 +124,7 @@ It also demonstrates nicely how you can use *xargs* to run every Shell command a
       | xargs -I {} git push origin --delete {}"
 ```
 
-# Debugging
+## Debugging
 
 If you encounter an error message, you can increase the verbosity with this environment variable:
 
@@ -134,7 +134,7 @@ export GIT_TRACE=1
 
 Deactivate it afterward by closing your terminal session or explicitly with `unset GIT_TRACE`.
 
-# Bringing It All Together: Multiple Repositories
+## Bringing It All Together: Multiple Repositories
 
 As a developer, chances are high you have *more than just one* Git repository on your machine.
 For many everyday use cases (like keeping all your local clones up-to-date), I have been using [git-repo-updater](https://github.com/earwig/git-repo-updater) with a lot of success and ease.

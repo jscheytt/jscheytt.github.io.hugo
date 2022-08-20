@@ -17,7 +17,7 @@ I think definitely yes.
 And is it also **guess-safe**?
 Let's explore that question with a bit of maths:
 
-# Example Scenario
+## Example Scenario
 
 Let's say you have an API and you know the records are referenced by their UUID.
 And let's say you wanted to guess any valid record (because [💰 money](https://stackoverflow.com/questions/3652944/how-securely-unguessable-are-guids)).
@@ -25,7 +25,7 @@ And let's say you wanted to guess any valid record (because [💰 money](https:/
 What is a realistic scenario, i.e. a reasonably expectable time it would take you to find a valid record?
 Let's just naively assume you find a valid UUID after randomly iterating over half of all possible UUIDs.
 
-# How long would that take you?
+## How long would that take you?
 
 Imagine you had started firing requests at your hypothetical API **at the beginning of the observable universe**, i.e. about 1.3772e10 years (or 4.3437e17 seconds) ago.
 And you send requests at a rate of **1 trillion (1e12) requests per second** (and, of course, your target API responds at the same rate 😉).

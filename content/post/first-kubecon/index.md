@@ -16,7 +16,7 @@ This week I went to KubeCon/CloudNativeCon in Valencia, Spain, together with fou
 What I want to talk about in this blog post is not a summary of talks or topics but just how I experienced the whole event.
 Is was the first KubeCon I have ever attended, and we came on Monday, left on Friday, so we effectively only attended Tuesday through Thursday (the middle 3 of the 5 days).
 
-# About KubeCon
+## About KubeCon
 
 KubeCon is *the* regular conference for all things Kubernetes and everything happening in the Cloud Native space.
 Since the last few years, it has been held 2 times a year, always alternating between Europe and North America.
@@ -31,7 +31,7 @@ These are smaller sub-conferences within KubeCon which focus on a specific topic
 Some of these events this time were: Service Mesh Con, Cloud Native Security Con, Kubernetes on Edge Day, and GitOpsCon.
 (I think there were about 15 distinct events in total.)
 
-# Disclaimers
+## Disclaimers
 
 To be completely honest up-front, *GitOpsCon was the main reason* I wanted to attend KubeCon at all in the first place, so my view on KubeCon as a whole is biased.
 
@@ -41,7 +41,7 @@ This does, admittedly, not put me in a very well-equipped position for a fair li
 
 ![The first slide of GitOpsCon](gitopscon-slide.jpg)
 
-# GitOpsCon
+## GitOpsCon
 
 One lesson I have drawn from my first KubeCon is that **the Co-located Events are the real thing**.
 That, of course, only applies if there is a Co-located Event in which you have a deep interest 😉.
@@ -65,7 +65,7 @@ Sometimes you can easily get clarifications on unclear points, sometimes you dis
 One speaker (Andrew Block from RedHat, he talked about Secrets Management with GitOps) even photographed my badge in order to contact me after the event because he could not yet answer a detail question I had!
 I am deeply grateful for the opportunity of diving into the community of people in the Cloud Native space.
 
-# New Ideas
+## New Ideas
 
 Luckily, not only GitOpsCon exposed me to new ideas - that also happened (and happened a lot!) with the talks during the other two days:
 I heard about the [Kernel-intercepting eBPF technology](https://kccnceu2022.sched.com/event/ytpE/reproducing-production-issues-in-your-ci-pipeline-using-ebpf-matthew-leray-speedscale-omid-azizi-new-relic), something like "Serverless CloudFoundry" with Knative, and using machine learning to optimize resource requests and limits for SLOs, among many others.
@@ -74,7 +74,7 @@ If you want to see which (few) talks I attended, see [my schedule in Sched](http
 The cool thing with something like Kubernetes and its ecosystem is that you can very quickly **experiment without a big setup investment**.
 I e.g. heard about Tekton as a side note and decided to directly give it a go during one of the other talks, and I was directly able to walk through the Getting Started guide to verify how nicely it works!
 
-# Starting To See Patterns
+## Starting To See Patterns
 
 Let me note down a few things I found remarkable and where we as an industry can maybe find better ways of achieving things:
 
@@ -86,7 +86,7 @@ Let me note down a few things I found remarkable and where we as an industry can
     * [One talk at GitOpsCon](https://gitopsconeu22.sched.com/event/zrqT/implementing-preview-environments-with-gitops-in-kubernetes-francois-le-pape-remazing) showed pretty nicely how you can **use both together**: Use FluxCD as a platform team to deploy your infrastructure, and deploy Argo for your developers to deploy and manage their applications.
     * Just one example: I love Flux, but managing preview environments from PRs is a lot of work (mostly YAML generation), but Argo has a dedicated [Pull Request Generator](https://argocd-applicationset.readthedocs.io/en/stable/Generators-Pull-Request/) to solve this in just about 10 lines of code.
 
-# Meeting Maintainers
+## Meeting Maintainers
 
 If you go to KubeCon only for the talks, you are probably doing it wrong - watch the talks virtually, it is a lot less effort.
 There is a whole big area with booths from all kinds of vendors in the Cloud Native space.
@@ -104,7 +104,7 @@ Some of the tools represented in the maintainers' area were still somewhat new t
 The great thing was that I could just walk up to them and ask them for a short demo to understand the usage and the difference to other tools.
 Special thanks to the folks at the ArgoCD, Backstage, and Buildpacks booths!
 
-# Favorite Quotes
+## Favorite Quotes
 
 I am going to close with some wise words people have said on this conference:
 

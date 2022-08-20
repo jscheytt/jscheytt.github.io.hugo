@@ -43,6 +43,7 @@ params:
   article:
     math: false
     toc: true
+    readingTime: true
     license:
       enabled: true
       default: Licensed under MIT
@@ -97,6 +98,8 @@ params:
       - type: tag-cloud
         params:
           limit: 20
+    page:
+      - type: toc
 
   opengraph:
     twitter:
