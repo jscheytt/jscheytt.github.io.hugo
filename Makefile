@@ -51,3 +51,7 @@ submodules.update:
 	@git submodule update --remote
 	@git add themes
 	@git commit -m "chore(make): update submodule"
+
+.PHONY: clean
+clean: ## Remove all generated resources.
+	rm -rf resources/ || true
