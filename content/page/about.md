@@ -11,7 +11,7 @@ menu:
 
 Hey there,
 
-My name is Josia Scheytt ([josˈiːa ʃaɪ̯t]).
+My name is Josia Scheytt ([[josˈiːa ʃaɪ̯t](https://namedrop.io/josiascheytt)]).
 I live in the South of Germany near Stuttgart.
 
 Technically, I am interested in all things DevOps and Cloud Automation.
