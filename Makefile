@@ -35,7 +35,7 @@ localhost_url = http://localhost:1313/
 build: install
 	@echo "Opening $(localhost_url) in your browser ..."
 	@python3 -m webbrowser $(localhost_url) > /dev/null
-	@hugo server
+	@hugo server --buildDrafts
 
 .PHONY: post
 post:
