@@ -1,6 +1,8 @@
 ---
 title: ArgoCD is like the Kubernetes Dashboard but for GitOps
 date: 2022-08-25T15:00:09+02:00
+categories:
+    - today-i-learned
 tags:
     - kubernetes
     - gitops
