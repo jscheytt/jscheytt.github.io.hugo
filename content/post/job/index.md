@@ -5,7 +5,7 @@ tags:
     - jesus
 ---
 
-About 2 years ago I decided to start reading the Old Testament in the reading order of the Tanach, the Hebrew bible.
+About 2 years ago I decided to start reading the Old Testament in the reading order of the [Tanakh](https://en.wikipedia.org/wiki/Hebrew_Bible), the Hebrew bible.
 Recently, I came across the book of Job.
 This was one among the many books in the Bible I found hard to read or make sense of.
 
