@@ -137,7 +137,8 @@ menu:
       name: Home
       url: /
       weight: -100
-      pre: home
+      params:
+        icon: home
 
 related:
   includeNewer: true
