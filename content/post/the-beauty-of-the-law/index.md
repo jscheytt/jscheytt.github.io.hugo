@@ -6,6 +6,8 @@ tags:
     - jesus
 ---
 
+*This is the first part of a series about The Beauty of the Law.*
+
 About two years ago God began revealing [Psalm 119](https://www.bibleserver.com/ESV.NIV/Psalm119) to me.
 This longest of all Psalms with its almost 200 verses is often feared for its length and especially its seemingly bizarre praise of "The Law".
 This refers to the Torah (the first 5 books of the Bible) and in a stricter sense to the commandments of the Torah.
@@ -138,3 +140,8 @@ With this in mind, we can turn towards the Old Testament and especially the Tora
 This makes me say with the words of Psalm 119:
 
 > Open my eyes and reveal to me the wonders in Your Law!
+
+---
+
+*This is the first part of a series about The Beauty of the Law.*
+*Here is [Part 2]({{< relref "../ten-commandments" >}}).*
