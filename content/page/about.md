@@ -23,5 +23,5 @@ For me this is a vital part of living DevOps.
 
 You can find me on:
 
-* [LinkedIn](https://www.linkedin.com/in/josiascheytt/)
 * [GitHub](https://github.com/jscheytt)
+* [LinkedIn](https://www.linkedin.com/in/josiascheytt/)
