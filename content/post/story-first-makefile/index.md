@@ -3,12 +3,12 @@ title: The Story of My First Makefile — Half-Versioned Secrets Management
 date: 2021-09-06T13:38:15+02:00
 tags:
     - automating
-    - cloudops
+    - devops
     - make
     - shell
 ---
 
-As a CloudOps Engineer one key skill is **automating repetitive tasks**.
+As a DevOps Engineer one key skill is **automating repetitive tasks**.
 What most people grab for intuitively is writing Shell scripts (be it Bash, zsh, fish or whichever flavor you prefer).
 And there are a lot many good reasons to do so:
 
