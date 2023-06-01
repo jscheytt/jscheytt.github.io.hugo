@@ -9,45 +9,42 @@ SHELL := /bin/bash
 .PHONY: all
 all: install help
 
-define HELPTEXT
-Usage: make [make-options] <target> [options]
-
-Common Targets:
-    build               Run hugo build process and start the local server.
-    help                Show this help info.
-    install             Install dependencies. (Default target)
-    post                Create a new post. Expects parameter slug.
-    submodules          Initialize the Git submodules.
-    submodules.update   Pull the latest changes in the Git submodules & commit.
-endef
-export HELPTEXT
-
+# Auto-generate help texts from end-of-line comments.
+# See https://marmelab.com/blog/2016/02/29/auto-documented-makefile.html
 .PHONY: help
-help:
-	@echo "$$HELPTEXT"
+USAGE_TEXT := Usage: make [make-options] <target> [options]
+HELPTEXT_HEADING := Common Targets:
+help: ## Show this help info.
+	@printf "$(USAGE_TEXT)\n"
+	@for makefile in $(MAKEFILE_LIST); do \
+		echo; \
+		grep '^HELPTEXT_HEADING := ' "$$makefile" | sed -E 's#.* := (.*)#\1#'; \
+		grep -E '^[a-zA-Z_\.-]+:.*?## .*$$' "$$makefile" | sort | \
+			awk 'BEGIN {FS = ":.*?## "}; {printf "  %-27s %s\n", $$1, $$2}'; \
+	done
 
 .PHONY: install
-install: submodules
+install: submodules ## Install dependencies. (Default target)
 	@command -v hugo > /dev/null || brew install hugo
 
 .PHONY: build
 localhost_url = http://localhost:1313/
-build: install
+build: install ## Run hugo build process and start the local server.
 	@echo "Opening $(localhost_url) in your browser ..."
 	@python3 -m webbrowser $(localhost_url) > /dev/null
 	@hugo server --buildDrafts
 
 .PHONY: post
-post:
+post: ## Create a new post. Expects parameter slug.
 	@if [ ! -z "$(slug)" ]; then hugo new post/$(slug)/index.md; fi
 
 .PHONY: submodules
 .git/modules/%:
 	@git submodule sync
 	@git submodule update --init --recursive
-submodules: .git/modules/
+submodules: .git/modules/ ## Initialize the Git submodules.
 .PHONY: submodules.update
-submodules.update:
+submodules.update: ## Pull the latest changes in the Git submodules & commit.
 	@git submodule update --remote
 	@git add themes
 	@git commit -m "chore(make): update submodule"
