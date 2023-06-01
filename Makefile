@@ -23,6 +23,8 @@ help: ## Show this help info.
 			awk 'BEGIN {FS = ":.*?## "}; {printf "  %-27s %s\n", $$1, $$2}'; \
 	done
 
+.PHONY: test # To please checkmake
+
 .PHONY: install
 install: submodules ## Install dependencies. (Default target)
 	@command -v hugo > /dev/null || brew install hugo
