@@ -78,7 +78,8 @@ I e.g. heard about Tekton as a side note and decided to directly give it a go du
 
 Let me note down a few things I found remarkable and where we as an industry can maybe find better ways of achieving things:
 
-* Not only do we have many tools in the Cloud Native ecosystem (I will not make the next joke about the [CNCF Landscape](https://landscape.cncf.io/), you can invent one yourself 😄), it also seems to me that everybody starts to create another copy-paste version of the [standard Kubernetes Dashboard](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/) but just filtered down to their CRDs.
+* Not only do we have many tools in the Cloud Native ecosystem (I will not make the next joke about the [CNCF Landscape](https://landscape.cncf.io/), you can invent one yourself 😄),
+  it also seems to me that everybody starts to create another copy-paste version of the [standard Kubernetes Dashboard](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/) but just filtered down to their CRDs.
     * The [Tekton Dashboard](https://github.com/tektoncd/dashboard/blob/main/docs/dashboard-ui.jpg) is a prime example of this, but they are not the only ones who are either actively doing this or considering building their own UI.
     * The Kubernetes Dashboard seems to have a [plugin system](https://github.com/kubernetes/dashboard/blob/master/docs/plugins/README.md), so why don't we all use more of this?
 * I have never used ArgoCD because I thought "well, I have learned how to use FluxCD and use it, why should I learn another CD tool?"
