@@ -3,6 +3,7 @@ title: An Interpretation of Psalm 45
 date: 2022-04-13T18:04:52+02:00
 tags:
     - jesus
+    - psalms
 ---
 
 [Psalm 45](https://www.bibleserver.com/ESV.NIV/Psalm45) celebrates a royal wedding.
