@@ -67,12 +67,12 @@ Bei der Zusammenstellung der Psalmen gingen die Mönche (darunter sticht am meis
 Weiterhin machten die Mönche an manchen Stellen Vereinfachungen bei der **Zählung und Aufteilung der Psalmen**:
 
 * **Drei Psalmen werden ausgelassen**, weil sie vollständig in anderen Psalmen enthalten sind:
-    * Psalm 53 = Psalm 14
-    * Psalm 70 = Psalm 40,14-18
-    * Psalm 108 = Psalm 57,8-12 = Psalm 60,7-14
+  * Psalm 53 = Psalm 14
+  * Psalm 70 = Psalm 40,14-18
+  * Psalm 108 = Psalm 57,8-12 = Psalm 60,7-14
 * Manche Psalmen werden **zusammengefasst**:
-    * Psalm 9 und 10 sind einer der alphabetischen Psalmen, bei denen jeder Vers (oder jeder x-te Vers) mit dem nächsten Buchstaben des hebräischen Alphabets beginnt, sodass 9 und 10 generell als Einheit betrachtet werden.
-    * Psalm 42 und 43 haben einen identischen Refrain und werden ebenfalls als Einheit betrachtet.
+  * Psalm 9 und 10 sind einer der alphabetischen Psalmen, bei denen jeder Vers (oder jeder x-te Vers) mit dem nächsten Buchstaben des hebräischen Alphabets beginnt, sodass 9 und 10 generell als Einheit betrachtet werden.
+  * Psalm 42 und 43 haben einen identischen Refrain und werden ebenfalls als Einheit betrachtet.
 * **Psalm 119** als der längste Psalm besteht aus 22 Strophen und wird nicht komplett am Stück gelesen.
   Stattdessen werden die einzelnen Strophen an bestimmten Stellen in der Liturgie als sogenanntes "Responsorium" eingebaut.
   (Ich konnte leider nicht genauer herausfinden, wo sie eingebaut wurden und ob es dabei irgendein bewusstes Muster gab.)
@@ -92,36 +92,36 @@ Spannenderweise sind für hohe Feiertage besondere Zusatztexte oder Abweichungen
 Im Münsterschwarzacher Psalter hingegen fand ich dann zum ersten Mal eine Kurzbeschreibung der Psalmenaufteilung des Benediktinischen Antiphonale.
 Die Aufteilung ist wie folgt:
 
-| Wochentag | Vigil Inv. | Vigil I | Vigil II | Laudes | MH I | MH II | Abendhore | Nachthore |
-| - | - | - | - | - | - | - | - | - |
-| Sonntag | 81 | 110 | 45 | 93 | 118 | 136 | 113 | 4 |
-|  |  | 18 | 9/10 | 3 |  |  | 114 | 91 |
-|  |  | 2 | 72 | 30 |  |  | 115 | 134 |
-|  |  |  |  | 147 |  |  | 116 |  |
-| Montag | 29 | 1 | 94 | 100 | 25 | 120 | 33 | 34 |
-|  |  | 104 | 105 | 63 |  | 121 | 61 |  |
-|  |  | 71 | 112 | 101 |  | 122 | 28 |  |
-|  |  |  |  | 135 |  |  | 48 |  |
-| Dienstag | 67 | 6 | 74 | 98 | 42/43 | 123 | 75 | 139 |
-|  |  | 107 | 73 | 90 |  | 124 | 140 |  |
-|  |  | 7 | 77 | 65 |  | 125 | 26 |  |
-|  |  |  |  | 117 |  |  | 145 |  |
-| Mittwoch | 46 | 78 | 58 | 97 | 44 | 126 | 103 | 32 |
-|  |  | 132 | 19 | 36 |  | 127 | 86 | 62 |
-|  |  |  | 49 | 57 |  | 128 | 85 | 133 |
-|  |  |  | 82 | 149 |  |  | 87 |  |
-| Donnerstag | 24 | 39 | 50 | 47 | 55 | 129 | 11 | 102 |
-|  |  | 37 | 68 | 76 |  | 130 | 23 |  |
-|  |  | 41 | 83 | 5 |  | 131 | 84 |  |
-|  |  |  |  | 148 |  |  | 40 |  |
-| Freitag | 8 | 88 | 60 | 96 | 22 | 11 | 144 | 31 |
-|  |  | 69 | 106 | 143 |  | 12 | 141 |  |
-|  |  | 38 | 79 | 64 |  | 13 | 142 |  |
-|  |  |  |  | 146 |  |  | 27 |  |
-| Samstag | 95 | 59 | 137 | 99 | 35 | 52 | 66 | 15 |
-|  |  | 109 | 89 | 51 |  | 14 | 20 | 16 |
-|  |  | 56 | 80 | 92 |  | 54 | 21 | 17 |
-|  |  |  |  | 150 |  |  | 138 |  |
+| Wochentag  | Vigil Inv. | Vigil I | Vigil II | Laudes | MH I  | MH II | Abendhore | Nachthore |
+|------------|------------|---------|----------|--------|-------|-------|-----------|-----------|
+| Sonntag    | 81         | 110     | 45       | 93     | 118   | 136   | 113       | 4         |
+|            |            | 18      | 9/10     | 3      |       |       | 114       | 91        |
+|            |            | 2       | 72       | 30     |       |       | 115       | 134       |
+|            |            |         |          | 147    |       |       | 116       |           |
+| Montag     | 29         | 1       | 94       | 100    | 25    | 120   | 33        | 34        |
+|            |            | 104     | 105      | 63     |       | 121   | 61        |           |
+|            |            | 71      | 112      | 101    |       | 122   | 28        |           |
+|            |            |         |          | 135    |       |       | 48        |           |
+| Dienstag   | 67         | 6       | 74       | 98     | 42/43 | 123   | 75        | 139       |
+|            |            | 107     | 73       | 90     |       | 124   | 140       |           |
+|            |            | 7       | 77       | 65     |       | 125   | 26        |           |
+|            |            |         |          | 117    |       |       | 145       |           |
+| Mittwoch   | 46         | 78      | 58       | 97     | 44    | 126   | 103       | 32        |
+|            |            | 132     | 19       | 36     |       | 127   | 86        | 62        |
+|            |            |         | 49       | 57     |       | 128   | 85        | 133       |
+|            |            |         | 82       | 149    |       |       | 87        |           |
+| Donnerstag | 24         | 39      | 50       | 47     | 55    | 129   | 11        | 102       |
+|            |            | 37      | 68       | 76     |       | 130   | 23        |           |
+|            |            | 41      | 83       | 5      |       | 131   | 84        |           |
+|            |            |         |          | 148    |       |       | 40        |           |
+| Freitag    | 8          | 88      | 60       | 96     | 22    | 11    | 144       | 31        |
+|            |            | 69      | 106      | 143    |       | 12    | 141       |           |
+|            |            | 38      | 79       | 64     |       | 13    | 142       |           |
+|            |            |         |          | 146    |       |       | 27        |           |
+| Samstag    | 95         | 59      | 137      | 99     | 35    | 52    | 66        | 15        |
+|            |            | 109     | 89       | 51     |       | 14    | 20        | 16        |
+|            |            | 56      | 80       | 92     |       | 54    | 21        | 17        |
+|            |            |         |          | 150    |       |       | 138       |           |
 
 In dieser Zusammenstellung sind die Psalmen verteilt auf fünf Gebetszeiten:
 
@@ -173,8 +173,8 @@ Bei der Gestaltung dieser Psalmenliturgie waren mir folgende Dinge besonders wic
 Die Umstrukturierung des Antiphonale begann anfänglich mit Fokus auf der Umverteilung der fünf bestehenden Horen auf die drei neuen Horen:
 
 * Die *neue Laudes* nimmt die originale Laudes und von den Vigilien das Invitatorium und Teil I.
-    * Die Vigil und die Laudes des Sonntags blieb an ihrem Platz (die Laudes an Sonntag I, die Vigil an Sonntag II).
-    * An den anderen Tagen wechseln sich Laudes und Vigil Inv+I ab.
+  * Die Vigil und die Laudes des Sonntags blieb an ihrem Platz (die Laudes an Sonntag I, die Vigil an Sonntag II).
+  * An den anderen Tagen wechseln sich Laudes und Vigil Inv+I ab.
       (Dieses Abwechseln hat sich insgesamt bewährt, damit vollständig erhaltene Segmente aus dem Antiphonale sich abwechseln können mit stärker umsortierten Horen.)
 * Die *neue Mittagshore* nimmt die originale Mittagshore I und II und den Sonntag, Montag und Dienstag der Vigil II.
 * Die *neue Abendhore* nimmt die originale Abendhore, Nachthore und Mittwoch bis Samstag (die übrigen Tage) der Vigil II.
@@ -213,79 +213,79 @@ Wenn sie dir oder euch dazu nicht dient, ändert sie nach Belieben ab.
 Diese Liturgie ist grundsätzlich sehr simpel aufgebaut:
 
 * Es gibt **drei Gebetszeiten**: Morgen, Mittag, Abend
-    * Gemäß der monastischen Tradition nennen wir sie *Laudes* ("Lobgesänge"), Mittagshore und Abendhore.
-    * In der Tabelle sind sie bezeichnet mit "L", "M" und "A".
+  * Gemäß der monastischen Tradition nennen wir sie *Laudes* ("Lobgesänge"), Mittagshore und Abendhore.
+  * In der Tabelle sind sie bezeichnet mit "L", "M" und "A".
 * Jede Gebetszeit (Hore) besteht aus **drei Teilen**:
     1. Psalmen (Teil 1)
     1. Lesung aus dem Neuen Testament (Teil NT)
     1. Abschlusspsalm (Teil 2)
 * Die Bibeltexte sind über **zwei Wochen** verteilt.
 * Kleine Besonderheiten:
-    * Psalm 119 besteht aus 22 Strophen und wird nie am Stück gelesen.
+  * Psalm 119 besteht aus 22 Strophen und wird nie am Stück gelesen.
       Stattdessen sind die einzelnen Strophen über die zwei Wochen verteilt.
-    * Einige Psalmen (53, 70, 108) fehlen, weil sie vollständig in anderen Psalmen enthalten sind (siehe [Benediktinische Psalmenliturgie](#benediktinische-psalmenliturgie)).
-    * Die Samstage enthalten nach dem Abschlusspsalm noch einen Abschnitt aus 1. Mose, um die neue Woche aus Gottes Schöpfungsruhe heraus zu beginnen.
+  * Einige Psalmen (53, 70, 108) fehlen, weil sie vollständig in anderen Psalmen enthalten sind (siehe [Benediktinische Psalmenliturgie](#benediktinische-psalmenliturgie)).
+  * Die Samstage enthalten nach dem Abschlusspsalm noch einen Abschnitt aus 1. Mose, um die neue Woche aus Gottes Schöpfungsruhe heraus zu beginnen.
 
 Die Psalmen und NT-Texte teilen sich folgendermaßen auf:
 
-| Wochentag | L 1 | L NT | L 2 | M 1 | M NT | M 2 | A 1 | A NT | A 2 |
-| - | - | - | - | - | - | - | - | - | - |
-| Sonntag I | 93 | [Joh1,1-18](https://www.bibleserver.com/NG%C3%9C/Joh1,1-18) | 92 | 118 | [Joh17](https://www.bibleserver.com/NG%C3%9C/Joh17) | 150 | 60 | [1Joh2,28](https://www.bibleserver.com/NG%C3%9C/1Joh2,28ff)-[3,3](https://www.bibleserver.com/NG%C3%9C/1Joh3,1-3) | 116 |
-|  | 3 |  |  | 136 |  |  | 113 |  |  |
-|  | 30 |  |  |  |  |  | 114 |  |  |
-|  | 147 |  |  |  |  |  | 115 |  |  |
-| Montag I | 29 | [Mt5,17-25](https://www.bibleserver.com/NG%C3%9C/Mt5,17-25).[7,1-12](https://www.bibleserver.com/NG%C3%9C/Mt7,1-12) | 119-I | 25 | [Eph1,15ff](https://www.bibleserver.com/NG%C3%9C/Eph1,15ff) | 119-II | 32 | [1Joh4,7ff](https://www.bibleserver.com/NG%C3%9C/1Joh4,7ff) | 139 |
-|  | 1 |  |  | 120 |  |  | 62 |  |  |
-|  | 19 |  |  | 121 |  |  | 133 |  |  |
-|  | 71 |  |  | 122 |  |  |  |  |  |
-| Dienstag I | 63 | [Of4](https://www.bibleserver.com/NG%C3%9C/Of4) | 119-III | 9/10 | [Joh16,19ff](https://www.bibleserver.com/NG%C3%9C/Joh16,19ff) | 119-IV | 33 | [Joh15,1-17](https://www.bibleserver.com/NG%C3%9C/Joh15,1-17) | 48 |
-|  | 101 |  |  |  |  |  | 61 |  |  |
-|  | 135 |  |  |  |  |  | 28 |  |  |
-|  | 96 |  |  |  |  |  |  |  |  |
-| Mittwoch I | 67 | [1Kor1,18ff](https://www.bibleserver.com/NG%C3%9C/1Kor1,18ff) | 119-V | 42/43 | [2Kor5,14ff](https://www.bibleserver.com/NG%C3%9C/2Kor5,14ff) | 119-VI | 102 | [Mt6,1-18](https://www.bibleserver.com/NG%C3%9C/Mt6,1-18) | 17 |
-|  | 6 |  |  | 123 |  |  | 15 |  |  |
-|  | 107 |  |  | 124 |  |  | 16 |  |  |
-|  | 7 |  |  | 125 |  |  |  |  |  |
-| Donnerstag I | 88 | [Phil3,7-14](https://www.bibleserver.com/NG%C3%9C/Phil3,7-14) | 119-VII | 11 | [Mt6,19ff](https://www.bibleserver.com/NG%C3%9C/Mt6,19ff) | 119-VIII | 75 | [1Kor13](https://www.bibleserver.com/NG%C3%9C/1Kor13) | 145 |
-|  | 90 |  |  | 94 |  |  | 140 |  |  |
-|  | 99 |  |  | 112 |  |  | 26 |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-| Freitag I | 100 | [Phil4,4-13](https://www.bibleserver.com/NG%C3%9C/Phil4,4-13) | 119-IX | 69 | [Mt16,24-26](https://www.bibleserver.com/NG%C3%9C/Mt16,24-26).[26,36-46](https://www.bibleserver.com/NG%C3%9C/Mt26,36-46) | 119-X | 49 | [Mt11,25ff](https://www.bibleserver.com/NG%C3%9C/Mt11,25ff) | 46 |
-|  | 51 |  |  | 12 |  |  | 31 |  |  |
-|  | 95 |  |  | 13 |  |  |  |  |  |
-|  | 41 |  |  |  |  |  |  |  |  |
-| Samstag I | 36 | [Tit3,3-7](https://www.bibleserver.com/NG%C3%9C/Tit3,3-7) | 117 | 54 | [Röm3,21-26](https://www.bibleserver.com/NG%C3%9C/Röm3,21-26) | 52 | 103 | [Mt18,1-5](https://www.bibleserver.com/NG%C3%9C/Mt18,1-5).[10-14](https://www.bibleserver.com/NG%C3%9C/Mt18,10-14) | 87 |
-|  | 57 |  |  | 58 |  |  | 77 |  | [1Mo1,31](https://www.bibleserver.com/ELB.HFA/1Mo1,31)-[2,3](https://www.bibleserver.com/ELB.HFA/1Mo2,1-3) |
-|  | 149 |  |  | 82 |  |  | 86 |  |  |
-|  | 81 |  |  | 14 |  |  | 85 |  |  |
-| Sonntag II | 110 | [Kol1,15ff](https://www.bibleserver.com/NG%C3%9C/Kol1,15ff) | 47 | 45 | [Lk1,46-55](https://www.bibleserver.com/NG%C3%9C/Lk1,46-55) | 148 | 68 | [2Kor2,14-16a](https://www.bibleserver.com/NG%C3%9C/2Kor2,14-16a) | 134 |
-|  | 18 |  |  | 72 |  |  | 34 |  |  |
-|  | 2 |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-| Montag II | 76 | [Röm11,33](https://www.bibleserver.com/NG%C3%9C/Röm11,33ff)-[12,2](https://www.bibleserver.com/NG%C3%9C/Röm12,1-2) | 119-XI | 44 | [Mt5,1-16](https://www.bibleserver.com/NG%C3%9C/Mt5,1-16) | 119-XII | 79 | [Joh10,1-18](https://www.bibleserver.com/NG%C3%9C/Joh10,1-18) | 23 |
-|  | 5 |  |  | 126 |  |  | 50 |  |  |
-|  | 104 |  |  | 127 |  |  | 111 |  |  |
-|  | 24 |  |  | 128 |  |  |  |  |  |
-| Dienstag II | 39 | [Kol3,1-17](https://www.bibleserver.com/NG%C3%9C/Kol3,1-17) | 119-XIII | 105 | [Eph1,3-8a](https://www.bibleserver.com/NG%C3%9C/Eph1,3-8a) | 119-XIV | 83 | [2Kor3,18](https://www.bibleserver.com/NG%C3%9C/2Kor3,18).[4,16ff](https://www.bibleserver.com/NG%C3%9C/2Kor4,16ff) | 4 |
-|  | 37 |  |  |  |  |  | 84 |  |  |
-|  |  |  |  |  |  |  | 40 |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-| Mittwoch II | 143 | [Phil2,5-11](https://www.bibleserver.com/NG%C3%9C/Phil2,5-11) | 119-XV | 55 | [Hebr12,1-3](https://www.bibleserver.com/NG%C3%9C/Hebr12,1-3) | 119-XVI | 144 | [Röm8,31ff](https://www.bibleserver.com/NG%C3%9C/Röm8,31ff) | 27 |
-|  | 64 |  |  | 129 |  |  | 141 |  |  |
-|  | 146 |  |  | 130 |  |  | 142 |  |  |
-|  | 8 |  |  | 131 |  |  |  |  |  |
-| Donnerstag II | 38 | [1Joh1,1](https://www.bibleserver.com/NG%C3%9C/1Joh1)-[2,6](https://www.bibleserver.com/NG%C3%9C/1Joh2,1-6) | 119-XVII | 74 | [Hebr4,12ff](https://www.bibleserver.com/NG%C3%9C/Hebr4,12ff) | 119-XVIII | 106 | [Röm8,1-17](https://www.bibleserver.com/NG%C3%9C/Röm8,1-17) | 91 |
-|  | 65 |  |  | 73 |  |  | 98 |  |  |
-|  | 97 |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-| Freitag II | 78 | [Lk1,67-79](https://www.bibleserver.com/NG%C3%9C/Lk1,67-79) | 119-XIX | 22 | [Of5](https://www.bibleserver.com/NG%C3%9C/Of5) | 119-XX | 66 | [Eph3,14ff](https://www.bibleserver.com/NG%C3%9C/Eph3,14ff) | 138 |
-|  |  |  |  |  |  |  | 20 |  |  |
-|  |  |  |  |  |  |  | 21 |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-| Samstag II | 59 | [Joh14,15ff](https://www.bibleserver.com/NG%C3%9C/Joh14,15ff) | 119-XXI | 35 | [Hebr13,9-17](https://www.bibleserver.com/NG%C3%9C/Hebr13,9-17).[20f](https://www.bibleserver.com/NG%C3%9C/Hebr13,20f) | 119-XXII | 137 | [Hebr1,1-3](https://www.bibleserver.com/NG%C3%9C/Hebr1,1-3).[2,9f](https://www.bibleserver.com/NG%C3%9CHebr2,9f) | 80 |
-|  | 109 |  |  | 132 |  |  | 89 |  | [1Mo1,31](https://www.bibleserver.com/ELB.HFA/1Mo1,31)-[2,3](https://www.bibleserver.com/ELB.HFA/1Mo2,1-3) |
-|  | 56 |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
+| Wochentag     | L 1 | L NT                                                                                                                | L 2      | M 1   | M NT                                                                                                                      | M 2       | A 1 | A NT                                                                                                                | A 2                                                                                                        |
+|---------------|-----|---------------------------------------------------------------------------------------------------------------------|----------|-------|---------------------------------------------------------------------------------------------------------------------------|-----------|-----|---------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| Sonntag I     | 93  | [Joh1,1-18](https://www.bibleserver.com/NG%C3%9C/Joh1,1-18)                                                         | 92       | 118   | [Joh17](https://www.bibleserver.com/NG%C3%9C/Joh17)                                                                       | 150       | 60  | [1Joh2,28](https://www.bibleserver.com/NG%C3%9C/1Joh2,28ff)-[3,3](https://www.bibleserver.com/NG%C3%9C/1Joh3,1-3)   | 116                                                                                                        |
+|               | 3   |                                                                                                                     |          | 136   |                                                                                                                           |           | 113 |                                                                                                                     |                                                                                                            |
+|               | 30  |                                                                                                                     |          |       |                                                                                                                           |           | 114 |                                                                                                                     |                                                                                                            |
+|               | 147 |                                                                                                                     |          |       |                                                                                                                           |           | 115 |                                                                                                                     |                                                                                                            |
+| Montag I      | 29  | [Mt5,17-25](https://www.bibleserver.com/NG%C3%9C/Mt5,17-25).[7,1-12](https://www.bibleserver.com/NG%C3%9C/Mt7,1-12) | 119-I    | 25    | [Eph1,15ff](https://www.bibleserver.com/NG%C3%9C/Eph1,15ff)                                                               | 119-II    | 32  | [1Joh4,7ff](https://www.bibleserver.com/NG%C3%9C/1Joh4,7ff)                                                         | 139                                                                                                        |
+|               | 1   |                                                                                                                     |          | 120   |                                                                                                                           |           | 62  |                                                                                                                     |                                                                                                            |
+|               | 19  |                                                                                                                     |          | 121   |                                                                                                                           |           | 133 |                                                                                                                     |                                                                                                            |
+|               | 71  |                                                                                                                     |          | 122   |                                                                                                                           |           |     |                                                                                                                     |                                                                                                            |
+| Dienstag I    | 63  | [Of4](https://www.bibleserver.com/NG%C3%9C/Of4)                                                                     | 119-III  | 9/10  | [Joh16,19ff](https://www.bibleserver.com/NG%C3%9C/Joh16,19ff)                                                             | 119-IV    | 33  | [Joh15,1-17](https://www.bibleserver.com/NG%C3%9C/Joh15,1-17)                                                       | 48                                                                                                         |
+|               | 101 |                                                                                                                     |          |       |                                                                                                                           |           | 61  |                                                                                                                     |                                                                                                            |
+|               | 135 |                                                                                                                     |          |       |                                                                                                                           |           | 28  |                                                                                                                     |                                                                                                            |
+|               | 96  |                                                                                                                     |          |       |                                                                                                                           |           |     |                                                                                                                     |                                                                                                            |
+| Mittwoch I    | 67  | [1Kor1,18ff](https://www.bibleserver.com/NG%C3%9C/1Kor1,18ff)                                                       | 119-V    | 42/43 | [2Kor5,14ff](https://www.bibleserver.com/NG%C3%9C/2Kor5,14ff)                                                             | 119-VI    | 102 | [Mt6,1-18](https://www.bibleserver.com/NG%C3%9C/Mt6,1-18)                                                           | 17                                                                                                         |
+|               | 6   |                                                                                                                     |          | 123   |                                                                                                                           |           | 15  |                                                                                                                     |                                                                                                            |
+|               | 107 |                                                                                                                     |          | 124   |                                                                                                                           |           | 16  |                                                                                                                     |                                                                                                            |
+|               | 7   |                                                                                                                     |          | 125   |                                                                                                                           |           |     |                                                                                                                     |                                                                                                            |
+| Donnerstag I  | 88  | [Phil3,7-14](https://www.bibleserver.com/NG%C3%9C/Phil3,7-14)                                                       | 119-VII  | 11    | [Mt6,19ff](https://www.bibleserver.com/NG%C3%9C/Mt6,19ff)                                                                 | 119-VIII  | 75  | [1Kor13](https://www.bibleserver.com/NG%C3%9C/1Kor13)                                                               | 145                                                                                                        |
+|               | 90  |                                                                                                                     |          | 94    |                                                                                                                           |           | 140 |                                                                                                                     |                                                                                                            |
+|               | 99  |                                                                                                                     |          | 112   |                                                                                                                           |           | 26  |                                                                                                                     |                                                                                                            |
+|               |     |                                                                                                                     |          |       |                                                                                                                           |           |     |                                                                                                                     |                                                                                                            |
+| Freitag I     | 100 | [Phil4,4-13](https://www.bibleserver.com/NG%C3%9C/Phil4,4-13)                                                       | 119-IX   | 69    | [Mt16,24-26](https://www.bibleserver.com/NG%C3%9C/Mt16,24-26).[26,36-46](https://www.bibleserver.com/NG%C3%9C/Mt26,36-46) | 119-X     | 49  | [Mt11,25ff](https://www.bibleserver.com/NG%C3%9C/Mt11,25ff)                                                         | 46                                                                                                         |
+|               | 51  |                                                                                                                     |          | 12    |                                                                                                                           |           | 31  |                                                                                                                     |                                                                                                            |
+|               | 95  |                                                                                                                     |          | 13    |                                                                                                                           |           |     |                                                                                                                     |                                                                                                            |
+|               | 41  |                                                                                                                     |          |       |                                                                                                                           |           |     |                                                                                                                     |                                                                                                            |
+| Samstag I     | 36  | [Tit3,3-7](https://www.bibleserver.com/NG%C3%9C/Tit3,3-7)                                                           | 117      | 54    | [Röm3,21-26](https://www.bibleserver.com/NG%C3%9C/Röm3,21-26)                                                             | 52        | 103 | [Mt18,1-5](https://www.bibleserver.com/NG%C3%9C/Mt18,1-5).[10-14](https://www.bibleserver.com/NG%C3%9C/Mt18,10-14)  | 87                                                                                                         |
+|               | 57  |                                                                                                                     |          | 58    |                                                                                                                           |           | 77  |                                                                                                                     | [1Mo1,31](https://www.bibleserver.com/ELB.HFA/1Mo1,31)-[2,3](https://www.bibleserver.com/ELB.HFA/1Mo2,1-3) |
+|               | 149 |                                                                                                                     |          | 82    |                                                                                                                           |           | 86  |                                                                                                                     |                                                                                                            |
+|               | 81  |                                                                                                                     |          | 14    |                                                                                                                           |           | 85  |                                                                                                                     |                                                                                                            |
+| Sonntag II    | 110 | [Kol1,15ff](https://www.bibleserver.com/NG%C3%9C/Kol1,15ff)                                                         | 47       | 45    | [Lk1,46-55](https://www.bibleserver.com/NG%C3%9C/Lk1,46-55)                                                               | 148       | 68  | [2Kor2,14-16a](https://www.bibleserver.com/NG%C3%9C/2Kor2,14-16a)                                                   | 134                                                                                                        |
+|               | 18  |                                                                                                                     |          | 72    |                                                                                                                           |           | 34  |                                                                                                                     |                                                                                                            |
+|               | 2   |                                                                                                                     |          |       |                                                                                                                           |           |     |                                                                                                                     |                                                                                                            |
+|               |     |                                                                                                                     |          |       |                                                                                                                           |           |     |                                                                                                                     |                                                                                                            |
+| Montag II     | 76  | [Röm11,33](https://www.bibleserver.com/NG%C3%9C/Röm11,33ff)-[12,2](https://www.bibleserver.com/NG%C3%9C/Röm12,1-2)  | 119-XI   | 44    | [Mt5,1-16](https://www.bibleserver.com/NG%C3%9C/Mt5,1-16)                                                                 | 119-XII   | 79  | [Joh10,1-18](https://www.bibleserver.com/NG%C3%9C/Joh10,1-18)                                                       | 23                                                                                                         |
+|               | 5   |                                                                                                                     |          | 126   |                                                                                                                           |           | 50  |                                                                                                                     |                                                                                                            |
+|               | 104 |                                                                                                                     |          | 127   |                                                                                                                           |           | 111 |                                                                                                                     |                                                                                                            |
+|               | 24  |                                                                                                                     |          | 128   |                                                                                                                           |           |     |                                                                                                                     |                                                                                                            |
+| Dienstag II   | 39  | [Kol3,1-17](https://www.bibleserver.com/NG%C3%9C/Kol3,1-17)                                                         | 119-XIII | 105   | [Eph1,3-8a](https://www.bibleserver.com/NG%C3%9C/Eph1,3-8a)                                                               | 119-XIV   | 83  | [2Kor3,18](https://www.bibleserver.com/NG%C3%9C/2Kor3,18).[4,16ff](https://www.bibleserver.com/NG%C3%9C/2Kor4,16ff) | 4                                                                                                          |
+|               | 37  |                                                                                                                     |          |       |                                                                                                                           |           | 84  |                                                                                                                     |                                                                                                            |
+|               |     |                                                                                                                     |          |       |                                                                                                                           |           | 40  |                                                                                                                     |                                                                                                            |
+|               |     |                                                                                                                     |          |       |                                                                                                                           |           |     |                                                                                                                     |                                                                                                            |
+| Mittwoch II   | 143 | [Phil2,5-11](https://www.bibleserver.com/NG%C3%9C/Phil2,5-11)                                                       | 119-XV   | 55    | [Hebr12,1-3](https://www.bibleserver.com/NG%C3%9C/Hebr12,1-3)                                                             | 119-XVI   | 144 | [Röm8,31ff](https://www.bibleserver.com/NG%C3%9C/Röm8,31ff)                                                         | 27                                                                                                         |
+|               | 64  |                                                                                                                     |          | 129   |                                                                                                                           |           | 141 |                                                                                                                     |                                                                                                            |
+|               | 146 |                                                                                                                     |          | 130   |                                                                                                                           |           | 142 |                                                                                                                     |                                                                                                            |
+|               | 8   |                                                                                                                     |          | 131   |                                                                                                                           |           |     |                                                                                                                     |                                                                                                            |
+| Donnerstag II | 38  | [1Joh1,1](https://www.bibleserver.com/NG%C3%9C/1Joh1)-[2,6](https://www.bibleserver.com/NG%C3%9C/1Joh2,1-6)         | 119-XVII | 74    | [Hebr4,12ff](https://www.bibleserver.com/NG%C3%9C/Hebr4,12ff)                                                             | 119-XVIII | 106 | [Röm8,1-17](https://www.bibleserver.com/NG%C3%9C/Röm8,1-17)                                                         | 91                                                                                                         |
+|               | 65  |                                                                                                                     |          | 73    |                                                                                                                           |           | 98  |                                                                                                                     |                                                                                                            |
+|               | 97  |                                                                                                                     |          |       |                                                                                                                           |           |     |                                                                                                                     |                                                                                                            |
+|               |     |                                                                                                                     |          |       |                                                                                                                           |           |     |                                                                                                                     |                                                                                                            |
+| Freitag II    | 78  | [Lk1,67-79](https://www.bibleserver.com/NG%C3%9C/Lk1,67-79)                                                         | 119-XIX  | 22    | [Of5](https://www.bibleserver.com/NG%C3%9C/Of5)                                                                           | 119-XX    | 66  | [Eph3,14ff](https://www.bibleserver.com/NG%C3%9C/Eph3,14ff)                                                         | 138                                                                                                        |
+|               |     |                                                                                                                     |          |       |                                                                                                                           |           | 20  |                                                                                                                     |                                                                                                            |
+|               |     |                                                                                                                     |          |       |                                                                                                                           |           | 21  |                                                                                                                     |                                                                                                            |
+|               |     |                                                                                                                     |          |       |                                                                                                                           |           |     |                                                                                                                     |                                                                                                            |
+| Samstag II    | 59  | [Joh14,15ff](https://www.bibleserver.com/NG%C3%9C/Joh14,15ff)                                                       | 119-XXI  | 35    | [Hebr13,9-17](https://www.bibleserver.com/NG%C3%9C/Hebr13,9-17).[20f](https://www.bibleserver.com/NG%C3%9C/Hebr13,20f)    | 119-XXII  | 137 | [Hebr1,1-3](https://www.bibleserver.com/NG%C3%9C/Hebr1,1-3).[2,9f](https://www.bibleserver.com/NG%C3%9CHebr2,9f)    | 80                                                                                                         |
+|               | 109 |                                                                                                                     |          | 132   |                                                                                                                           |           | 89  |                                                                                                                     | [1Mo1,31](https://www.bibleserver.com/ELB.HFA/1Mo1,31)-[2,3](https://www.bibleserver.com/ELB.HFA/1Mo2,1-3) |
+|               | 56  |                                                                                                                     |          |       |                                                                                                                           |           |     |                                                                                                                     |                                                                                                            |
+|               |     |                                                                                                                     |          |       |                                                                                                                           |           |     |                                                                                                                     |                                                                                                            |
 
 ## Eine Gebrauchsanweisung
 
