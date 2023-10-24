@@ -57,25 +57,25 @@ But numbers have their limits, and the people who use our services are not dista
 Learning to empathize with our users can include the following:
 
 * Sit down with a user (maybe even in person, if possible) and ask for feedback on how they use the platform.
-    * **Asking proactively** is radically different from waiting for bug tickets and incident reports.
+  * **Asking proactively** is radically different from waiting for bug tickets and incident reports.
 * Listen actively:
-    * First, listen (you may even want to take notes).
+  * First, listen (you may even want to take notes).
       Then keep asking questions to find out what the user is *really* trying to accomplish.
-    * Your primary focus should not be to get fodder for your bug tracker.
+  * Your primary focus should not be to get fodder for your bug tracker.
       (Take notes, though, if something comes up that you did not know about.)
       Instead, **focus on understanding the user's overall interaction with your services:
-    * How do they develop and generally work as a team?
+  * How do they develop and generally work as a team?
       What is their workflow like?
       Where are they least productive?
       Are they using tools outside your platform that could or should be integrated?
 * **Don't insist on your preferences**.
   The platform is not there for its own sake, but to enable the developers.
-    * This is most evident when I answer complaints with "But that's not how the system is supposed to be used! Did you even read xyz?"
-    * I struggle with this point a lot.
+  * This is most evident when I answer complaints with "But that's not how the system is supposed to be used! Did you even read xyz?"
+  * I struggle with this point a lot.
       When you build a platform, you design for certain usage patterns.
       But you can never anticipate how those needs might change in the future.
       And if those needs change drastically, you may have to refactor your platform to a greater extent (which will cause you a lot of work).
-    * I'm not advocating blindly following every user suggestion --- your product owner will have to prioritize things anyway.
+  * I'm not advocating blindly following every user suggestion --- your product owner will have to prioritize things anyway.
       I am also not discouraging helping people understand how to use the existing platform effectively.
       My point is:
       If you scold people for trying to get things done, you will discourage them.
@@ -152,7 +152,7 @@ But at the same time they **lose everything that makes documentation valuable**:
 * **RBAC** becomes difficult, and those who maintain it may not always be available.
   This will make even users who have permission to edit and manage certain parts of the content to feel reluctant to write shareable documentation instead of directly responding to requests.
 * People will **always make direct requests** because they can get a faster response.
-    * They may *not always* get it faster because everyone is busy, but by texting a human you at least have a small chance that someone will respond faster than you will find something in the potentially outdated docs.
+  * They may *not always* get it faster because everyone is busy, but by texting a human you at least have a small chance that someone will respond faster than you will find something in the potentially outdated docs.
 * When documentation becomes outdated and permissions are complex to obtain, you end up with *shadow documentation* (e.g. in Word documents on shared drives) or (by default and by far the worst) *no documentation at all* happens and **valuable knowledge is lost**.
 
 I have never seen an organization suffer from vandalism or other malicious overuse of documentation tools.
