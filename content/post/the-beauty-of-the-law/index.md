@@ -144,4 +144,4 @@ This makes me say with the words of Psalm 119:
 ---
 
 *This is the first part of a series about The Beauty of the Law.*
-*Here is [Part 2]({{< relref "../ten-commandments" >}}).*
+*Here is [Part 2]({{< relref "ten-commandments" >}}).*

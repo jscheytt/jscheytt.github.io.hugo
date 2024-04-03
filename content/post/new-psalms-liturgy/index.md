@@ -166,7 +166,7 @@ Bei der Gestaltung dieser Psalmenliturgie waren mir folgende Dinge besonders wic
   Nur Psalmen zu lesen ohne den Bezug zu Christus ist auf Dauer unausgewogen.
 1. **Psalm 119** soll am Ende der Morgen- und Mittagshoren stehen.
   Damit können wir zum Start in den Vormittag und dann zum Start in den Nachmittag jeweils bekräftigen, dass wir unter Jesu Herrschaft und im Einklang mit Seinem Willen leben möchten.
-    * Zu Psalm 119 habe ich ein [besonderes Verhältnis]({{< relref "../the-beauty-of-the-law" >}}).
+    * Zu Psalm 119 habe ich ein [besonderes Verhältnis]({{< relref "the-beauty-of-the-law" >}}).
 
 ### Erste Schritte
 
