@@ -5,7 +5,7 @@ tags:
     - jesus
 ---
 
-*This is the second part of a series about [The Beauty of the Law]({{< relref "../the-beauty-of-the-law" >}}).*
+*This is the second part of a series about [The Beauty of the Law]({{< relref "the-beauty-of-the-law" >}}).*
 
 What is *the Law* in the Bible?
 In a general sense, the Hebrew word "Torah" means "teaching" or "instruction".
@@ -232,5 +232,5 @@ We can imitate Him by honoring the people who brought us into this life on a bio
 
 ---
 
-*This is the second part of a series about [The Beauty of the Law]({{< relref "../the-beauty-of-the-law" >}}).*
-*Here is [Part 1]({{< relref "../the-beauty-of-the-law" >}}).*
+*This is the second part of a series about [The Beauty of the Law]({{< relref "the-beauty-of-the-law" >}}).*
+*Here is [Part 1]({{< relref "the-beauty-of-the-law" >}}).*

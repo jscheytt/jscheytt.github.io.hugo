@@ -9,12 +9,12 @@ About 2 years ago I decided to start reading the Old Testament in the reading or
 Recently, I came across the book of Job.
 This was one among the many books in the Bible I found hard to read or make sense of.
 
-But as part of my journey into [rediscovering the abundant yet hidden life in Him]({{< relref "../rediscovering-our-hidden-life-in-god" >}}) even all the seemingly strange books of the Old Testament start lighting up.
+But as part of my journey into [rediscovering the abundant yet hidden life in Him]({{< relref "rediscovering-our-hidden-life-in-god" >}}) even all the seemingly strange books of the Old Testament start lighting up.
 Let's keep in mind that Jesus, the Son of God, was announced by John as ["the Word" Himself](https://www.bibleserver.com/NIV/John1%3A14).
 What this encompasses for me is that whenever you read the Scriptures — fittingly called *God's Word* — you are **reading Jesus**.
 So when we read the Scriptures with the mindset of young Samuel in the temple, saying ["Speak Lord, Your servant is listening,"](https://www.bibleserver.com/NIV/1%20Samuel3%3A10) and staying on the lookout for Jesus we can surely expect to find Him anywhere in Scripture!
 
-And thus, the book of Job started lighting up for me as a story about **how to treat one another in suffering** according to Jesus' heart and the prayerful community of love ([see Chapter 7 of "The Divine Conspiracy"]({{< relref "../rediscovering-our-hidden-life-in-god" >}})).
+And thus, the book of Job started lighting up for me as a story about **how to treat one another in suffering** according to Jesus' heart and the prayerful community of love ([see Chapter 7 of "The Divine Conspiracy"]({{< relref "rediscovering-our-hidden-life-in-god" >}})).
 It illustrates what a Kingdom way of treating each other in bad times looks like and shows how to truly love a friend who is suffering a great loss.
 
 ## What The Three Friends Get Right
