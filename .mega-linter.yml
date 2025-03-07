@@ -3,5 +3,7 @@ DISABLE:
 DISABLE_LINTERS:
   - HTML_HTMLHINT
   - MARKDOWN_MARKDOWN_LINK_CHECK
+  # The scope of this tool is too wide, I prefer the other linters already present.
+  - REPOSITORY_DEVSKIM
 MAKEFILE_CHECKMAKE_FILTER_REGEX_EXCLUDE: content/post/story-first-makefile/.*
 REPOSITORY_KICS_ARGUMENTS: --fail-on=high
