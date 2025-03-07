@@ -1,0 +1,54 @@
+# yaml-language-server: $schema=https://taskfile.dev/schema.json
+version: "3"
+
+vars:
+  LOCALHOST_URL: http://localhost:1313/
+
+tasks:
+  help:
+    desc: List all tasks
+    aliases:
+      - default
+    cmds:
+      - task --list-all
+
+  clean:
+    desc: Remove artifacts.
+    cmds:
+      - rm -vr resources/ || true
+
+  install:
+    desc: Install dependencies.
+    cmds:
+      - command -v hugo >/dev/null || brew install hugo
+
+  submodules:
+    desc: Initialize Git submodules (e.g. Hugo theme).
+    cmds:
+      - git submodule sync
+      - git submodule update --init --recursive
+
+  submodules:update:
+    desc: Update Git submodules (e.g. Hugo theme).
+    cmds:
+      - git submodule update --remote
+      - git add themes
+      - >-
+        git commit -m "chore(make): update submodule" || true
+
+  serve:
+    desc: Serve site locally.
+    deps:
+      - install
+    cmds:
+      - echo "Opening {{.LOCALHOST_URL}} in your browser ..."
+      - python3 -m webbrowser {{.LOCALHOST_URL}} > /dev/null
+      - hugo server --buildDrafts
+
+  post:
+    desc: Create a new post.
+    requires:
+      vars:
+        - SLUG
+    cmds:
+      - hugo new "post/{{.SLUG}}/index.md"
