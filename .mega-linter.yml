@@ -5,6 +5,8 @@ DISABLE_LINTERS:
   - MARKDOWN_MARKDOWN_LINK_CHECK
   # The scope of this tool is too wide, I prefer the other linters already present.
   - REPOSITORY_DEVSKIM
+  # Buggy
+  - REPOSITORY_OSV_SCANNER
 ACTION_ZIZMOR_ARGUMENTS: >-
   --min-severity high
 ACTION_ZIZMOR_UNSECURED_ENV_VARIABLES:
