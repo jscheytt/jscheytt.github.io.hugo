@@ -1,6 +1,9 @@
 DISABLE:
   - SPELL
 DISABLE_LINTERS:
+  # We prefer jq automatic formatting for JSON & YAML
+  - JSON_PRETTIER
+  - YAML_PRETTIER
   - HTML_HTMLHINT
   - MARKDOWN_MARKDOWN_LINK_CHECK
   # The scope of this tool is too wide, I prefer the other linters already present.
