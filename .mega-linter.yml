@@ -5,7 +5,6 @@ DISABLE_LINTERS:
   - JSON_PRETTIER
   - YAML_PRETTIER
   - HTML_HTMLHINT
-  - MARKDOWN_MARKDOWN_LINK_CHECK
   # The scope of this tool is too wide, I prefer the other linters already present.
   - REPOSITORY_DEVSKIM
   # Buggy
@@ -14,5 +13,3 @@ ACTION_ZIZMOR_ARGUMENTS: >-
   --min-severity high
 ACTION_ZIZMOR_UNSECURED_ENV_VARIABLES:
   - GITHUB_TOKEN
-MAKEFILE_CHECKMAKE_FILTER_REGEX_EXCLUDE: content/post/story-first-makefile/.*
-REPOSITORY_KICS_ARGUMENTS: --fail-on=high
