@@ -5,11 +5,15 @@ DISABLE_LINTERS:
   - JSON_PRETTIER
   - YAML_PRETTIER
   - HTML_HTMLHINT
-  # The scope of this tool is too wide, I prefer the other linters already present.
-  - REPOSITORY_DEVSKIM
-  # Buggy
-  - REPOSITORY_OSV_SCANNER
+  # Too much noise. Severity threshold can only be set via API key
+  - REPOSITORY_CHECKOV
+  # Slowest linter by far and overlaps with Trivy.
+  - REPOSITORY_GRYPE
+  # We do not need SBOMs.
+  - REPOSITORY_SYFT
+  - REPOSITORY_TRIVY_SBOM
 ACTION_ZIZMOR_ARGUMENTS: >-
   --min-severity high
 ACTION_ZIZMOR_UNSECURED_ENV_VARIABLES:
   - GITHUB_TOKEN
+REPOSITORY_TRIVY_ARGUMENTS: --severity HIGH,CRITICAL
